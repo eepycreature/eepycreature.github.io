@@ -3,6 +3,9 @@ body {
 }
 
 .info {
-  font-size: 20;
   text-align: center;
+}
+
+.know {
+  font-size: 20;
 }
