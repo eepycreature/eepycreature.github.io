@@ -9,3 +9,7 @@ body {
 .know {
   font-size: 20;
 }
+
+div {
+  display: inline;
+}
