@@ -1,15 +1,67 @@
 body {
-  font-family: Kanit;
+    font-family: Kanit;
 }
 
 .info {
-  text-align: center;
+    text-align: center;
 }
 
 .know {
-  font-size: 20;
+    font-size: 20px;
+}
+
+p {
+    font-size: 17px;
+    width: 75%;
+    margin-left: 12.55%;
 }
 
 div {
-  display: inline;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin-top: 50px;
+}
+
+.bottom {
+    margin-top: -20px;
+}
+
+h1 {
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+section:nth-of-type(2) {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin-top: 50px;
+}
+
+div {
+    width: 250px;
+    font-size: 17px;
+}
+
+.games {
+    margin-top: -55px;
+}
+
+.hobbies {
+    margin-top: -125px;
+}
+
+.shows {
+    margin-top: -100px;
+}
+
+.other {
+    margin-top: -125px;
+}
+
+.paragraph {
+    margin-bottom: -90px;
 }
