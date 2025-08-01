@@ -6,10 +6,6 @@ body {
     text-align: center;
 }
 
-.know {
-    font-size: 20px;
-}
-
 p {
     font-size: 17px;
     width: 75%;
@@ -17,16 +13,6 @@ p {
 }
 li {
     font-size: 18px;
-}
-div {
-    display: inline-block;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin-top: 50px;
-}
-
-.bottom {
-    margin-top: -20px;
 }
 
 h1 {
