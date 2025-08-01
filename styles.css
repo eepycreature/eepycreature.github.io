@@ -6,6 +6,10 @@ body {
     text-align: center;
 }
 
+.top {
+    margin-top: -10px
+}
+
 p {
     font-size: 17px;
     width: 75%;
